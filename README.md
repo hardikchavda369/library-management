@@ -35,7 +35,7 @@ php artisan serve
 ```
 credentails
 ```
-username: tauseedzaman
+username: hardik
 password: password
 ```
 # That's all 🎊🎉 
