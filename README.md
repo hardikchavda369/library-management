@@ -41,22 +41,17 @@ password: password
 # That's all 🎊🎉 
 
 ## ScreenShots
-<img src="Screenshots/lms (1).png" width="100%" /><br /> <br />
-<img src="Screenshots/lms (2).png" width="100%" /><br /> <br />
-<img src="Screenshots/lms (3).png" width="100%" /><br /> <br />
-<img src="Screenshots/lms (4).png" width="100%" /><br /> <br />
-<img src="Screenshots/lms (5).png" width="100%" /><br /> <br />
-<img src="Screenshots/lms (6).png" width="100%" /><br /> <br />
-<img src="Screenshots/lms (7).png" width="100%" /><br /> <br />
-<img src="Screenshots/lms (8).png" width="100%" /><br /> <br />
-<img src="Screenshots/lms (9).png" width="100%" /><br /> <br />
-<img src="Screenshots/lms (10).png" width="100%" /><br /> <br />
-<img src="Screenshots/lms (11).png" width="100%" /><br /> <br />
-<img src="Screenshots/lms (12).png" width="100%" /><br /> <br />
-<img src="Screenshots/lms (13).png" width="100%" /><br /> <br />
-
-Watch demo at tauseedzaman youtube channel https://youtube.com/channel/UCnJYN9jTfEnumvJUw4rhh9A
-
-```
-Make sure to leave a start ✨✨
-```
+<img src="Screenshots/1.jpeg" width="100%" /><br /> <br />
+<img src="Screenshots/2.jpeg" width="100%" /><br /> <br />
+<img src="Screenshots/3.jpeg" width="100%" /><br /> <br />
+<img src="Screenshots/4.jpeg" width="100%" /><br /> <br />
+<img src="Screenshots/5.jpeg" width="100%" /><br /> <br />
+<img src="Screenshots/6.jpeg" width="100%" /><br /> <br />
+<img src="Screenshots/7.jpeg" width="100%" /><br /> <br />
+<img src="Screenshots/8.jpeg" width="100%" /><br /> <br />
+<img src="Screenshots/9.jpeg" width="100%" /><br /> <br />
+<img src="Screenshots/10.jpeg" width="100%" /><br /> <br />
+<img src="Screenshots/11.jpeg" width="100%" /><br /> <br />
+<img src="Screenshots/12.jpeg" width="100%" /><br /> <br />
+<img src="Screenshots/13.jpeg" width="100%" /><br /> <br />
+<img src="Screenshots/14.jpeg" width="100%" /><br /> <br />
